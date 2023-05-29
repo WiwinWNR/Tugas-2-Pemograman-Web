@@ -1,4 +1,4 @@
-# Tugas-2-Pemograman-Web
+# Praktikum 2 : PHP Dasar
 # Menjalankan Web Server
 Untuk menjalankan web server dari menu XAMPP Control.
 ![ss xampp](https://user-images.githubusercontent.com/115921167/227537895-64c30874-5aae-4567-87e3-c6679d3f0dfa.png)
